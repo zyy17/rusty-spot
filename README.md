@@ -2,7 +2,7 @@
 
 Welcome to `rusty-spot`! 
 
-This is a simple and **educational** asynchronous runtime implementation in Rust. It is designed to help learners understand the basics of asynchronous programming and executors in Rust without diving into the complexities of mature and optimized asynchronous runtimes.
+This is a **simple and educational** asynchronous runtime implementation in Rust. It is designed to help learners understand the basics of asynchronous programming and executors in Rust without diving into the complexities of mature and optimized asynchronous runtimes.
 
 The Rusty-spotted cat is one of the smallest felines in the world, native to India and Sri Lanka. Despite its size, it's a competent and adaptable predator. Similarly, `rusty-spot` aims to provide a competent async runtime with a minimalist footprint in the vast ecosystem of Rust.
 
